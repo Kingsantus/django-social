@@ -3,3 +3,4 @@ venv/
 media*
 cert.crt
 cert.key
+db.sqlite3
